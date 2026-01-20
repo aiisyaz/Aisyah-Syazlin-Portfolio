@@ -7,7 +7,6 @@ const nextConfig = {
   assetPrefix: isProd
     ? 'https://aiisyaz.github.io/AisyahSyazlin-Portfolio/'
     : '/',
-  experimental: { turbo: false },
 };
 
 module.exports = nextConfig;
