@@ -2,13 +2,14 @@
   "name": "lin-portfolio",
   "version": "0.1.0",
   "private": true,
-"scripts": {
+  "scripts": {
     "dev": "next dev",
     "dev:webpack": "npm run clean && NEXT_WEBPACK=true next dev",
     "clean": "rmdir /s /q .next",
     "build": "next build",
     "start": "next start",
-    "deploy": "next build && gh-pages -d out"
+    "deploy": "next build && next export && gh-pages -d out"
+
   },
   "dependencies": {
     "aos": "^2.3.4",
@@ -26,6 +27,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.0.10",
+    "gh-pages": "^6.3.0",
     "tailwindcss": "^4",
     "typescript": "5.9.3"
   }
