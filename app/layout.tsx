@@ -27,9 +27,10 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    images: ["/og.webp"],
+    images: [`${imageBasePath}/og.webp`],
   },
 };
+
 export default function RootLayout({
   children,
 }: {
