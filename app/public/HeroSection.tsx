@@ -2,6 +2,7 @@
 
 import Image from "next/image";
 import { Github, Linkedin, Mail, Phone, Globe } from "lucide-react";
+import { imageBasePath } from "../lib/config";
 
 export default function HeroSection() {
   return (
@@ -90,7 +91,7 @@ export default function HeroSection() {
         <div className="hidden md:block relative w-full h-[420px] md:h-[520px] rounded-3xl overflow-hidden">
 
           <Image
-            src="/images/lin-picture.svg"
+            src={`${imageBasePath}/images/lin-picture.svg`}
             alt="Aisyah Syazlin portrait"
             fill
             priority
@@ -101,7 +102,7 @@ export default function HeroSection() {
         {/* MOBILE BACKGROUND IMAGE */}
         <div className="absolute inset-0 md:hidden">
           <Image
-            src="/images/lin-picture.svg"
+            src={`${imageBasePath}/images/lin-picture.svg`}
             alt="Aisyah portrait"
             fill
             priority
