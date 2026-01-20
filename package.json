@@ -9,7 +9,7 @@
     "build": "next build",
     "start": "next start",
     "export": "next export",
-    "deploy": "npm run build && gh-pages -d out"
+    "deploy": "next build && gh-pages -d out"
   },
   "dependencies": {
     "aos": "^2.3.4",
