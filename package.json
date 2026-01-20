@@ -6,9 +6,9 @@
     "dev": "next dev",
     "dev:webpack": "npm run clean && NEXT_WEBPACK=true next dev",
     "clean": "rmdir /s /q .next",
-    "build": "set NEXT_WEBPACK=1&& next build",
+    "build": "set NEXT_BUILDER=webpack&& next build",
     "start": "next start",
-    "deploy": "set NEXT_WEBPACK=1&& next build && gh-pages -d out"
+    "deploy": "set NEXT_BUILDER=webpack&& next build && gh-pages -d out"
   },
   "dependencies": {
     "aos": "^2.3.4",
