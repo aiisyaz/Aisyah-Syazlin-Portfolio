@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
-2:I[39756,["/AisyahSyazlin-Portfolio/_next/static/chunks/ff1a16fafef87110.js","/AisyahSyazlin-Portfolio/_next/static/chunks/247eb132b7f7b574.js"],"default"]
-3:I[37457,["/AisyahSyazlin-Portfolio/_next/static/chunks/ff1a16fafef87110.js","/AisyahSyazlin-Portfolio/_next/static/chunks/247eb132b7f7b574.js"],"default"]
-0:{"buildId":"zKZ0OR1ai8uP-O_w3GFHq","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+2:I[39756,["https://aiisyaz.github.io/AisyahSyazlin-Portfolio/_next/static/chunks/ff1a16fafef87110.js","https://aiisyaz.github.io/AisyahSyazlin-Portfolio/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+3:I[37457,["https://aiisyaz.github.io/AisyahSyazlin-Portfolio/_next/static/chunks/ff1a16fafef87110.js","https://aiisyaz.github.io/AisyahSyazlin-Portfolio/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+0:{"buildId":"gFTqRxkGKxZnz-D7xBXTI","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
