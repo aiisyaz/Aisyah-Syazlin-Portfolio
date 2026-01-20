@@ -13,7 +13,7 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   metadataBase: new URL(
     process.env.NODE_ENV === 'production'
-      ? 'https://aiisyaz.github.io/AisyahSyazlin-Portfolio'
+      ? 'https://aiisyaz.github.io/Aisyah-Syazlin-Portfolio'
       : 'http://localhost:3000'
   ),
   title: "Aisyah Syazlin Portfolio",
