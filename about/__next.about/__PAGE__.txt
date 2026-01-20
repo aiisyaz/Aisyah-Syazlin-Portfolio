@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[2137,["/AisyahSyazlin-portfolio/_next/static/chunks/0eeba8b58374f7fc.js","/AisyahSyazlin-portfolio/_next/static/chunks/e15099d2b669e0b4.js"],"ClientPageRoot"]
-3:I[37136,["/AisyahSyazlin-portfolio/_next/static/chunks/20155e9503e1ed7f.js","/AisyahSyazlin-portfolio/_next/static/chunks/d0909dd974e49ffb.js","/AisyahSyazlin-portfolio/_next/static/chunks/3277c39d3623f23b.js"],"default"]
-6:I[35267,["/AisyahSyazlin-portfolio/_next/static/chunks/0eeba8b58374f7fc.js","/AisyahSyazlin-portfolio/_next/static/chunks/e15099d2b669e0b4.js"],"OutletBoundary"]
+2:I[47257,["/Aisyah-Syazlin-portfolio/_next/static/chunks/ff1a16fafef87110.js","/Aisyah-Syazlin-portfolio/_next/static/chunks/247eb132b7f7b574.js"],"ClientPageRoot"]
+3:I[60078,["/Aisyah-Syazlin-portfolio/_next/static/chunks/51e74f0b81a00189.js","/Aisyah-Syazlin-portfolio/_next/static/chunks/d8235b10952869d5.js","/Aisyah-Syazlin-portfolio/_next/static/chunks/b64fbec12386cea8.js"],"default"]
+6:I[97367,["/Aisyah-Syazlin-portfolio/_next/static/chunks/ff1a16fafef87110.js","/Aisyah-Syazlin-portfolio/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"MKQmS7b3JJXHDuf-F2485","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/AisyahSyazlin-portfolio/_next/static/chunks/d0909dd974e49ffb.js","async":true}],["$","script","script-1",{"src":"/AisyahSyazlin-portfolio/_next/static/chunks/3277c39d3623f23b.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"sVbFA_iC098B2e4e7-OjS","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/Aisyah-Syazlin-portfolio/_next/static/chunks/d8235b10952869d5.js","async":true}],["$","script","script-1",{"src":"/Aisyah-Syazlin-portfolio/_next/static/chunks/b64fbec12386cea8.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
