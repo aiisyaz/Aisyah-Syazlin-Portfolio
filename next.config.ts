@@ -1,12 +1,14 @@
 /** @type {import('next').NextConfig} */
+const isProd = process.env.NODE_ENV === 'production';
+
 const nextConfig = {
+  output: 'export',
+  distDir: "out",
   images: {
     unoptimized: true,
   },
-  turbopack: {
-    root: "./",
-  },
-  experimental: {
-    turbo: false,
-  },
+  basePath: isProd ? '/AisyahSyazlin-portfolio' : '',
+  assetPrefix: isProd ? '/AisyahSyazlin-portfolio/' : '',
 };
+
+module.exports = nextConfig;
