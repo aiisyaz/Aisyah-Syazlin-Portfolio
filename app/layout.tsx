@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Poppins } from "next/font/google";
 import "./globals.css";
+import { imageBasePath } from "./lib/config";
 import ClientLayout from "./ClientLayout";
 
 const poppins = Poppins({
@@ -17,7 +18,7 @@ export const metadata: Metadata = {
     description: "Portfolio website of Aisyah Syazlin, a passionate developer.",
     images: [
       {
-        url: "/og.webp",
+        url: `${imageBasePath}/og.webp`,
         width: 1200,
         height: 630,
         alt: "Aisyah Syazlin Portfolio Preview",
