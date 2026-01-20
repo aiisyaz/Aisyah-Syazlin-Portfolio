@@ -11,6 +11,11 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(
+    process.env.NODE_ENV === 'production'
+      ? 'https://aiisyaz.github.io/AisyahSyazlin-Portfolio'
+      : 'http://localhost:3000'
+  ),
   title: "Aisyah Syazlin Portfolio",
   description: "Portfolio website of Aisyah Syazlin, a passionate developer.",
   openGraph: {
@@ -30,6 +35,7 @@ export const metadata: Metadata = {
     images: [`${imageBasePath}/og.webp`],
   },
 };
+
 
 export default function RootLayout({
   children,
