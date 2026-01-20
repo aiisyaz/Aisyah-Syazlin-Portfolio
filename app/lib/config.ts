@@ -1,2 +1,2 @@
 export const imageBasePath =
-  process.env.NODE_ENV === "production" ? "/AisyahSyazlin-portfolio" : "";
+  process.env.NODE_ENV === "production" ? "/Aisyah-Syazlin-portfolio" : "";
