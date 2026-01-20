@@ -6,7 +6,7 @@
     "dev": "next dev",
     "dev:webpack": "npm run clean && NEXT_WEBPACK=true next dev",
     "clean": "rmdir /s /q .next",
-    "build": "next build && next export",
+    "build": "next build",
     "start": "next start",
     "deploy": "npm run build && gh-pages -d out"
   },
