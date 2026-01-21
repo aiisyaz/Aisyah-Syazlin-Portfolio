@@ -40,12 +40,12 @@ export default function AboutMe() {
           {/* TEXT */}
           <div className="relative z-10 space-y-6 text-black">
             <h2 className="text-4xl md:text-5xl font-extrabold leading-tight">
-              Hello! I'm{" "}
+              {"Hello! I'm"}{" "}
               <span className="text-yellow-300">Aisyah Syazlin</span>
             </h2>
 
             <p className="text-lg text-blue-100 leading-relaxed">
-              I’m a passionate web designer and developer who loves building
+              {"I’m"} a passionate web designer and developer who loves building
               digital experiences that feel alive and meaningful ✨
             </p>
 

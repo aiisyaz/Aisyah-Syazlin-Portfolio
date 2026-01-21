@@ -23,7 +23,7 @@ export default function HeroSection() {
           </p>
 
           <h1 className="text-4xl md:text-5xl font-extrabold leading-tight text-gray-900">
-            Hi, I’m{" "}
+            {"Hi, I’m"}{" "}
             <span className="text-blue-600">Aisyah Syazlin</span>
           </h1>
 
