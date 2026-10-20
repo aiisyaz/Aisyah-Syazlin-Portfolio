@@ -26,7 +26,7 @@ const projects: Record<string, ProjectData> = {
     image: "/images/fnj-login.png",
     problemStatement:
       "Customers who want to send or collect their devices from FNJ Multimedia may face time and transportation constraints, making it necessary to develop a delivery system that offers convenient services at their homes",
-    gallery: ["/images/ERD.png", "/images/fnj.png", "/images/fnj1.png", "/images/fnj2.png", "/images/fnj4.png", "/images/fnj5.png", "/images/fnj6.png", "/images/fnjRider.png", "/images/fnjRider1.png", "/images/fnjRider2.png", "/images/fnjAdmin.png", "/images/fnjAdmin1.png", "/images/fnjAdmin2.png", "/images/fnjAdmin3.png"],
+    gallery: ["/images/ERD.png", "/images/fnjCD.png", "/images/fnj.png", "/images/fnj1.png", "/images/fnj2.png", "/images/fnj4.png", "/images/fnj5.png", "/images/fnj6.png", "/images/fnjRider.png", "/images/fnjRider1.png", "/images/fnjRider2.png", "/images/fnjAdmin.png", "/images/fnjAdmin1.png", "/images/fnjAdmin2.png", "/images/fnjAdmin3.png"],
   },
 };
 

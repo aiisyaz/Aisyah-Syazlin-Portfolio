@@ -32,8 +32,7 @@ export default function HeroSection() {
           </p>
 
           <p className="text-gray-600 max-w-lg">
-            I create meaningful digital experiences by combining clean design,
-            thoughtful interactions, and solid frontend engineering.
+            I build reliable backend systems by combining efficient logic, structured databases, and well-designed server-side solutions.
           </p>
 
           {/* SOCIAL ICONS */}
