@@ -28,7 +28,7 @@ export default function HeroSection() {
           </h1>
 
           <p className="text-xl font-semibold text-yellow-400">
-            Frontend Engineer
+            Backend Engineer
           </p>
 
           <p className="text-gray-600 max-w-lg">

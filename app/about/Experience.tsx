@@ -3,20 +3,23 @@
 export default function Experience() {
   const items = [
     {
-      company: "Freelance",
-      location: "Malaysia",
-      role: "Project Manager",
-      year: "Disember 2025 – Present",
+      company: "iCIMB Bank Berhad",
+      location: "Kuala Lumpur",
+      role: "BAU System Support",
+      year: "August 2026 – Present",
       tasks: [
-        "Coordinating with clients",
-        "Managing deliverables",
-        "Ensuring successful project outcomes",
+        "Process and organize documents, including scanning, Letters of Undertaking, and documents returned to lawyers.",
+        "Register new documents in the internal system and enter relevant information into Excel for record-keeping and tracking.",
+        "Maintain and update Excel records of documents scheduled for release or dispatch.",
+        "Label and track document statuses, including executed, rejected, and appealed documents.",
+        "Prepare rejection letters for documents rejected at the counter.",
+        "Perform manual checks on document information and records to support accurate data entry and document tracking.",
       ],
-      tags: ["Management", "Client Handling"],
+      tags: ["Data Verification", "Microsoft Excel", "Data Management", "System Data Entry"],
     },
     {
       company: "Syspro Web Development",
-      location: "Malaysia",
+      location: "Kuala Lumpur",
       role: "Software Development Intern,",
       year: "March - July 2025",
       tasks: [
@@ -29,7 +32,7 @@ export default function Experience() {
     },
     {
       company: "Shaleq Global Sdn Bhd",
-      location: "Malaysia",
+      location: "Kelantan",
       role: "IT Intern,",
       year: "February 2022 – February 2023",
       tasks: [

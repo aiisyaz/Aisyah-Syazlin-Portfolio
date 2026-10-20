@@ -14,14 +14,14 @@ export default function ProjectSection() {
       <div className="px-4 md:px-40 pb-10 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
 
       <ProjectCard
-        title="Personal Portfolio"
-        image={`${imageBasePath}/images.png`}
+        title="FIFY — Handmade Knitted Bag E-Commerce Website"
+        image={`${imageBasePath}/images/fify1.png`}
         link="/projects/portfolio"
       />
 
       <ProjectCard
-        title="project-2"
-        image={`${imageBasePath}/images.png`}
+        title="FNJ Delivery — Web-Based Delivery Management System"
+        image={`${imageBasePath}/images/fnj-login.png`}
         link="/projects/food-system"
       />
 
