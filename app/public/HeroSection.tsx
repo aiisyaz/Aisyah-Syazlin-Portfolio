@@ -40,7 +40,7 @@ export default function HeroSection() {
 
             {/* GitHub */}
             <a
-              href="https://github.com/nikyuuki"
+              href="https://github.com/aiisyaz"
               target="_blank"
               className="p-3 rounded-xl bg-white shadow hover:shadow-md transition flex items-center justify-center"
             >

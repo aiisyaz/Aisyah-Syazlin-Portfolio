@@ -52,7 +52,7 @@ export default function Footer() {
         {/* Social Icons */}
         <div className="flex gap-6 text-xl">
           <a
-            href="https://github.com/nikyuuki"
+            href="https://github.com/aiisyaz"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-blue-600 transition-all"
